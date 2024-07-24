@@ -15,6 +15,7 @@ BC96
 ## Ürün İsmi
 
 --Tedavi Rehberim--
+
 <img src="https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint3Documents/tedavi_rehberim_app_logo.jpeg" alt="App Logo" style="width:150px; height:auto;">
 
 
