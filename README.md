@@ -89,7 +89,7 @@ Alınan kararlar: Uygulamanın temel veri tabanı yapısının oluşturulması g
 - **Ürün Durumu**: Ekran görüntüleri:
 - ![Giriş Ekranı](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/giris_ekrani.png) 
 - ![Hastalık Detay 1](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/hastalik_detay1.png) 
-- ![Hastalık Detay 2](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/hastalik_detay2.png) 
+- ![Hastalık Detay 2](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/hastalik_detay_2.png) 
 
 - **Sprint Review**: 
 Alınan kararlar: Uygulamanın giriş ekranının bitirilmesi, Hastalık detay ekranının tamamlanması
