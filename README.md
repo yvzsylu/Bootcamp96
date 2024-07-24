@@ -87,9 +87,13 @@ Alınan kararlar: Uygulamanın temel veri tabanı yapısının oluşturulması g
 ![Backlog 2](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/backlog2.png) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+- Giriş Ekranı
 - <img src="https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/giris_ekrani.png" alt="Giriş Ekranı" style="width:300px; height:auto;">
-- ![Hastalık Detay 1](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/hastalik_detay1.png) 
-- ![Hastalık Detay 2](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/hastalik_detay_2.png) 
+- Hastalık Detay 1
+- <img src="https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/hastalik_detay1.png" alt="Hastalık Detay 1" style="width:300px; height:auto;">
+- Hastalık Detay 2
+- <img src="https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/hastalik_detay_2.png" alt="Hastalık Detay 2" style="width:300px; height:auto;">
+
 
 - **Sprint Review**: 
 Alınan kararlar: Uygulamanın giriş ekranının bitirilmesi, Hastalık detay ekranının tamamlanması
@@ -117,9 +121,10 @@ Alınan kararlar: Uygulamanın giriş ekranının bitirilmesi, Hastalık detay e
 ![Backlog 3](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint3Documents/backlog3.png) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-- ![Giriş Ekranı](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/giris_ekrani.png) 
-- ![TedAi Chat Ekranı](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint3Documents/TedAi_chat_screen.png) 
-- ![App Logo](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint3Documents/tedavi_rehberim_app_logo.jpeg) 
+- TedAi Chat Ekranı
+- <img src="https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint3Documents/TedAi_chat_screen.png" alt="TedAi Chat Ekranı" style="width:300px; height:auto;">
+- App Logo
+- <img src="https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint3Documents/tedavi_rehberim_app_logo.jpeg" alt="App Logo" style="width:300px; height:auto;">
 
 - **Sprint Review**: 
 Alınan kararlar: OpenAi Chat botunun entegre edilmesi, chat buttonu tasarımı eklenmesi, Chat ekranının bitirilmesi
