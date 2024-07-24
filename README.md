@@ -87,7 +87,7 @@ Alınan kararlar: Uygulamanın temel veri tabanı yapısının oluşturulması g
 ![Backlog 2](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/backlog2.png) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-- ![Giriş Ekranı](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/giris_ekrani.png) 
+- <img src="https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/giris_ekrani.png" alt="Giriş Ekranı" style="width:300px; height:auto;">
 - ![Hastalık Detay 1](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/hastalik_detay1.png) 
 - ![Hastalık Detay 2](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/hastalik_detay_2.png) 
 
