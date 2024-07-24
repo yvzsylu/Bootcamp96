@@ -84,7 +84,7 @@ Alınan kararlar: Uygulamanın temel veri tabanı yapısının oluşturulması g
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 2](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/backlog2.jpg) 
+![Backlog 2](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/backlog2.png) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
 - ![Giriş Ekranı](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/giris_ekrani.png) 
