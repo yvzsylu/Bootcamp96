@@ -77,8 +77,57 @@ Alınan kararlar: Uygulamanın temel veri tabanı yapısının oluşturulması g
 # Sprint 2
 
 
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 2](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/backlog2.jpg) 
+
+- **Ürün Durumu**: Ekran görüntüleri:
+- ![Giriş Ekranı](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/giris_ekrani.png) 
+- ![Hastalık Detay 1](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/hastalik_detay1.png) 
+- ![Hastalık Detay 2](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/hastalik_detay2.png) 
+
+- **Sprint Review**: 
+Alınan kararlar: Uygulamanın giriş ekranının bitirilmesi, Hastalık detay ekranının tamamlanması
+
+- **Sprint Retrospective:**
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
+  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
+  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+
+- **Diğer Notlar**:
+
+
 ---
 
 # Sprint 3
 
+
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 3](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint3Documents/backlog3.jpg) 
+
+- **Ürün Durumu**: Ekran görüntüleri:
+- ![Giriş Ekranı](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/giris_ekrani.png) 
+- ![TedAi Chat Ekranı](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint3Documents/TedAi_chat_screen.png) 
+- ![App Logo](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/tedavi_rehberim_app_logo.jpeg) 
+
+- **Sprint Review**: 
+Alınan kararlar: OpenAi Chat botunun entegre edilmesi, chat buttonu tasarımı eklenmesi, Chat ekranının bitirilmesi
+
+- **Sprint Retrospective:**
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
+  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
+  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+
+- **Diğer Notlar**:
 ---
