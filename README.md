@@ -114,12 +114,12 @@ Alınan kararlar: Uygulamanın giriş ekranının bitirilmesi, Hastalık detay e
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 3](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint3Documents/backlog3.jpg) 
+![Backlog 3](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint3Documents/backlog3.png) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
 - ![Giriş Ekranı](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/giris_ekrani.png) 
 - ![TedAi Chat Ekranı](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint3Documents/TedAi_chat_screen.png) 
-- ![App Logo](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint2Documents/tedavi_rehberim_app_logo.jpeg) 
+- ![App Logo](https://raw.githubusercontent.com/yvzsylu/Bootcamp96/main/ProjectManagement/Sprint3Documents/tedavi_rehberim_app_logo.jpeg) 
 
 - **Sprint Review**: 
 Alınan kararlar: OpenAi Chat botunun entegre edilmesi, chat buttonu tasarımı eklenmesi, Chat ekranının bitirilmesi
